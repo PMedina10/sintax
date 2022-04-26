@@ -1,3 +1,4 @@
+// Piero Joesph Medina Angulo
 #include<stdio.h>
 #include<ctype.h>
 
